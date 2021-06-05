@@ -1,0 +1,2 @@
+# LaitPage
+vue example page 
